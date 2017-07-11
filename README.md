@@ -20,5 +20,5 @@ Les Changement apporter sont:
 
 7. Supression de certain contenue qui rendait la page trop lourde d'information
 
-Ces deux réalisation ont étais produite au mois de Mai.
+Ces deux réalisations ont étais produite au mois de Mai 2017.
 (Il est possible que certain changement sur le site on étais apporter)
