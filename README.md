@@ -8,12 +8,12 @@ Les Changement apporter sont:
 
 1. Le changement de Typographie
 
-2. Armonisation des call to action
+2. Armonisation des Call To Action
 
-3. Nouvelle organisation de la barre de navigation
+3. Nouvelle organisation de la barre de menu
 
-4. Mise en place des icons pour les languages
+4. Mise en place des Icons pour les languages
 
-5. Nouvelle Icon Profil et Panier
+5. Nouvelle Icons Profil et Panier
 
 6. Réorganisation du Slider et des Box de découverte
